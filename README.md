@@ -48,8 +48,6 @@ The dataset contains detailed information about pets available for adoption, inc
 ## Results
 Key findings and model performance metrics will be documented in the `results` folder. A summary of insights will be shared in the project presentation or final report.
 
-## Acknowledgments
-- [Name of data source]
-- Contributors: [Your Name or Team Members]
+
 
 --- 
