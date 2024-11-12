@@ -9,8 +9,6 @@ Pet Information: ID, name, type (dog, cat, etc.), breed, age, color, and size.
 Adoption Details: Adoption status, time to adoption, and associated fees.
 Health Information: Vaccination status, spay/neuter status, and medical conditions.
 Shelter Information: Shelter ID, location, and capacity.
-Data Source
-[Add details about where the dataset was sourced, e.g., PetFinder, Kaggle, or custom collected data.]
 
 Objectives
 Explore Adoption Trends: Analyze trends over time (e.g., seasonality, popular pet types).
